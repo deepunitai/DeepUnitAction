@@ -1,4 +1,5 @@
 name: DeepUnit Workflow
+description: The DeepUnit workflow generates a bug report and writes unit tests for every pull request that is opened.
 
 on:
   workflow_dispatch:
