@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JustinBStrong/testpilot/issues"
   },
-  "homepage": "https://github.com/JustinBStrong/testpilot#readme"
+  "homepage": "https://github.com/JustinBStrong/testpilot#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
 }
