@@ -1,0 +1,19 @@
+{
+  "name": "testpilot",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "test.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinBStrong/testpilot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinBStrong/testpilot/issues"
+  },
+  "homepage": "https://github.com/JustinBStrong/testpilot#readme"
+}
